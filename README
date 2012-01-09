@@ -1,0 +1,98 @@
+########################################################################
+#######Jordan Chastant - Arch Linux Configuration Files - GitHub########
+########################################################################
+
+Screenshots - Dirty.png & Clean.png
+Theme - Moka GTK & Moka Openbox
+Icons - Faenza Icon Theme Set w/ Faenza Dark and Faenza Dropbox Dark
+Tint2 Bottom Bar and Conky Top Bar Matching Set
+
+################
+###Arch Linux###
+################
+
+/etc/rc.conf - Arch Linux Main Config
+/etc/fstab   - Partition/Volume Mounting
+/etc/mkinitcpio.conf - Initial RAM filesystem or initramfs
+/etc/modprobe.d/modprobe.conf - kernel module loading
+/etc/resolv.conf - DNS/openDNS settings
+/etc/hosts - custom hosts file
+/etc/locale.gen - set locale and time/date/monetary formats
+/etc/pacman.conf - pacman config file
+/etc/pacman.d/mirrorlist - pacman mirrors USA/Canada only
+
+################
+######GRUB######
+################
+
+/boot/grub/menu.lst - GRUB Main Config w/ Arch,Arch Fallback, and Windows
+
+################
+####Open Box####
+################
+
+~/.config/openbox/autostart - autostart program list
+~/.config/openbox/menu.xml - openbox right click menu programs
+~/.config/openbox/rc.xml - openbox main config file and hot keys
+~/.config/openbox/pipemenus/obpipemenu-places - "Places" script for menu.xml
+~/.config/openbox/scripts/xcompmgr.sh - script for menu.xml modified for DCompMgr (xcompmgr-dana)
+
+################
+#####Tint 2#####
+################
+
+~/.config/tint2/tint2rc - manin config for bottom bar tint2 taskbar to match top conky bar
+~/.config/tint2/tintwizard.conf - config for tintwizard gui tint2rc editor
+
+################
+#####Conky######
+################
+
+~/.conkyrc - main config for top bar conky status bar to match bottom tint2 bar
+~/.config/conky - folder for conky scripts for weather, mail, torrents, rss, and lua
+
+################
+######Misc######
+################
+
+~/.bashrc - bash config file w/ colorized terminal prompts
+~/.xinitrc - xorg booting config w/ selections for openbox or awesome
+~/.Xdefaults - default GUI settings with application specifics
+
+################
+###Wallpapers###
+################
+
+~/Images/Wallpaper/ArchLinuxSpace.png
+~/Images/Wallpaper/ArchChick.jpg
+~/Images/Wallpaper/ArchLinuxBatSignal.png
+~/Images/Wallpaper/ArchLinuxBlue.png
+~/Images/Wallpaper/ArchLinuxColoredRings.jpg
+~/Images/Wallpaper/ArchLinuxColors.jpg
+~/Images/Wallpaper/ArchLinuxDark.png
+~/Images/Wallpaper/ArchLinuxMinimalNeonGreen.png
+~/Images/Wallpaper/ArchLinuxWhite.jpg
+~/Images/Wallpaper/ArchPacman.png
+~/Images/Wallpaper/ArchPacman2.png
+~/Images/Wallpaper/Emperor.jpg
+~/Images/Wallpaper/FemaleSithApprentices.jpg
+~/Images/Wallpaper/Grass.jpg
+~/Images/Wallpaper/MinimalArchLinux.jpg
+~/Images/Wallpaper/MinimalArchLinux2.jpg
+~/Images/Wallpaper/Orange.jpg
+~/Images/Wallpaper/PulpSithFiction.jpg
+~/Images/Wallpaper/SexyOrangeArch.png
+~/Images/Wallpaper/Sith.jpg
+~/Images/Wallpaper/SithStalker.jpg
+~/Images/Wallpaper/Smog.jpg
+~/Images/Wallpaper/Stormtrooper.jpg
+~/Images/Wallpaper/TreeCitySunset.jpg
+~/Images/Wallpaper/VaderSmoking.jpg
+
+################
+####AwesomeWM###
+################
+
+~/.config/awesome/rc.lua - Main AwesomeWM config file
+
+
